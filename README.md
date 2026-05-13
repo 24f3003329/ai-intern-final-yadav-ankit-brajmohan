@@ -53,8 +53,8 @@ ai-intern-final-[yourname]/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-intern-final-yourname.git
-cd ai-intern-final-yourname
+git clone https://github.com/24f3003329/ai-intern-final-yadav-ankit-brajmohan.git
+cd ai-intern-final-yadav-ankit-brajmohan
 ```
 
 ### 2. Create a Virtual Environment (Recommended)

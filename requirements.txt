@@ -1,0 +1,48 @@
+# AI Research Assistant — Python Dependencies
+# Install with: pip install -r requirements.txt
+ 
+# Core Framework
+streamlit>=1.35.0
+ 
+# Anthropic Claude API
+anthropic>=0.28.0
+ 
+# Web Search (RAG)
+tavily-python>=0.3.0
+ 
+# PDF Export
+fpdf2>=2.7.9
+markdown2>=2.4.13
+ 
+# MCP (Model Context Protocol) — Filesystem Server Client
+mcp>=1.0.0
+ 
+# Environment Variable Management
+python-dotenv>=1.0.0
+ 
+# Node.js / npx is required at the system level for the MCP filesystem server:
+# The MCP server is launched via: npx -y @modelcontextprotocol/server-filesystem
+# Ensure Node.js >= 18 is installed: https://nodejs.org/
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
